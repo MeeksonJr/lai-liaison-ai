@@ -30,7 +30,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you have any questions or feedback, feel free to reach out to us:
 
-- **Email**: contact@lai.com
+- **Email**: d.mohamed1504@gmail.com
 - **GitHub**: [github.com/MeeksonJr](https://github.com/MeeksonJr)
 - **LinkedIn**: [linkedin.com/in/mohamed-datt-b60907296](www.linkedin.com/in/mohamed-datt-b60907296)
 
